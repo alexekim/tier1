@@ -5,10 +5,5 @@ def find_duplicate(array)
   array.detect{ |value| array.count(value) > 1 }
 end
 
-p find_duplicate(a)
 
-def scramble(array)
-	array = array.shuffle
-	return array
-end
-p scramble(a)
+p find_duplicate(a)
