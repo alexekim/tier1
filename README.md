@@ -3,6 +3,8 @@ Alex Kim
 
 Tier 1
 
+note: challenges are located in 'spec' directory
+
 Write a function in the programming language of your choice to solve the following problems.
 
 Each function MUST be accompanied by positive and negative unit tests using a unit-testing framework.
