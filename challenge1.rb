@@ -1,5 +1,5 @@
 a = (1..1000000).to_a
-a.push(98)
+a.push(57)
 
 
 def find_duplicate(array)

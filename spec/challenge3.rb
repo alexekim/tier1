@@ -2,11 +2,10 @@ deck = (1..52).to_a
 
 
 def scramble(array)
-	array = array.shuffle
-	return array
+ 	deck2= array.shuffle
+	return	deck2
 end
 
-p "Unshuffled Deck"
-p deck
-p "Shuffled Deck:"
-p scramble(deck)
+=begin
+	can also use older method deck.sort_by{rand}
+=end
