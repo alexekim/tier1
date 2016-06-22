@@ -1,8 +1,7 @@
 # tier1 challenges
 Alex Kim
-Bluewolf Challenge
 
-Bluewolf Assignment – Tier 1
+Tier 1
 
 Write a function in the programming language of your choice to solve the following problems.
 
