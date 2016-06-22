@@ -1,2 +1,17 @@
-# tier1
+# tier1 challenges
 Alex Kim
+Bluewolf Challenge
+
+Bluewolf Assignment – Tier 1
+
+Write a function in the programming language of your choice to solve the following
+
+Each function MUST be accompanied by positive and negative unit tests using a
+
+i. Given an array with 1,000,000 integers between 1 and 1,000,000, one integer is in
+
+the array twice. Find the duplicate.
+
+ii. Find the first non-repeating character in a string: (&quot;DEFD&quot; -&gt; E)
+
+iii. Write a function that will shuffle a deck of cards.

@@ -43,10 +43,20 @@ deck = (1..52).to_a
 
 def scramble(array)
   # very useful and convenient shuffle method
- 	deck2= array.shuffle
-	return deck2
-  p "new shuffled order:"
-  p deck2
+ 	deck2 = array.shuffle
+  # for the highly unlikely case that shuffle method produces same order of cards
+  if array == deck2
+    p "shuffle again!"
+    deck2 = array.shuffle
+    return deck2
+    p "new shuffled order:"
+    p deck2
+  # with 52 cards, the 'else' will almost always trigger
+  else
+    return deck2
+    p "new shuffled order:"
+    p deck2
+  end
 end
 
 scramble(deck)
