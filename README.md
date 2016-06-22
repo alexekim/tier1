@@ -1,9 +1,11 @@
 # tier1 challenges
+
+# note: challenges are located in 'spec' directory
+
 Alex Kim
 
 Tier 1
 
-note: challenges are located in 'spec' directory
 
 Write a function in the programming language of your choice to solve the following problems.
 
