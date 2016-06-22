@@ -4,9 +4,9 @@ Bluewolf Challenge
 
 Bluewolf Assignment – Tier 1
 
-Write a function in the programming language of your choice to solve the following
+Write a function in the programming language of your choice to solve the following problems.
 
-Each function MUST be accompanied by positive and negative unit tests using a
+Each function MUST be accompanied by positive and negative unit tests using a unit-testing framework.
 
 i. Given an array with 1,000,000 integers between 1 and 1,000,000, one integer is in
 
