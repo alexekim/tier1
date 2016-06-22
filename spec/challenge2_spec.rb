@@ -1,7 +1,7 @@
 require "spec_helper"
 require "challenge2"
 
-test_string = "DEFG"
+test_string = "DEFD"
 test_string_2 = "DDDDDDDDDDDEFG"
 
 describe non_repeat(test_string) do

@@ -6,7 +6,7 @@ def non_repeat(string)
   result = string.select { |n| string.count(n) == 1 }
   p "first non repeated character is:"
   # .first method displays first element of 'results' array
-
+  p result.first
   result.first
 end
 
